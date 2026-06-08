@@ -1,7 +1,7 @@
 import numpy as np 
 import matplotlib.pyplot as plt
 
-r_point=5000 #random point
+r_point=50000 #random point
 
 x=np.random.uniform(-1,1,r_point)
 y=np.random.uniform(-1,1,r_point)
